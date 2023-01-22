@@ -49,10 +49,6 @@ const Navbar = () => {
         <div className=" cursor-pointer mr-2">
           <BsBag />
         </div>
-        <img
-          className="rounded-full w-7 h-7 mr-2"
-          src="./src/assets/flag_logo.webp"
-        />
       </div>
     </nav>
   );
